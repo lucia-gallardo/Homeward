@@ -6,7 +6,7 @@ It has majorly 3 broad components:
 
 1) Smart Matrix - Powered by Artificial Intelligence and Machine Learning that focuses on multiple factors like country quotas, family & community, education & certification validity, professional Experience & Capabilities, language, cultural & religious preferences in order to measure the potential success of reintegration for the Refugees. This was performed using Watson's machine learning solution. We found that the Regression Model was the most accurate, but also included a Neural Tree Model.
 
-2) Biometrics - Powered by IOT, aims at collecting data such as fingerprints, iris scan, facial recognition, voice recognition and other documents scan such as passport and driver's license of the refugees to start building their
+2) Biometrics - Powered by IOT, aims at collecting data such as fingerprints, iris scan, facial recognition, voice recognition and other documents scan such as passport and driver's license of the refugees to start building their application for referral and to facilitate identity authenticity across agencies and processes.
 
 3) Identity Management - Powered by Blockchain, this is implemented using smart contracts to provide a secure, tamper proof ledger of identity in conjunction with IPFS to store the documents and detailed information, while being integrated with a decentralized app that provides the user interface to all the interacting parties and nodes in the network
 
